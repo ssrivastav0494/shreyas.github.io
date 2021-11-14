@@ -1,0 +1,12 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "C:\\Users\\user\\RUT-SOM-VIRT-DATA-PT-05-2021-U-C\\02-Homework\\14-Interactive-Web-Visualizations\\Instructions\\StarterCodeindex.html"
+        }
+    ]
+}
